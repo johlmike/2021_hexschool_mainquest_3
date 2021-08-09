@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  background-color: $primary;
+  justify-content: space-between;
+  padding: 0 88px;
+  height: 108px;
+  align-items: center;
+  .header-logo {
+    max-height: 100%;
+  }
+
+  .header-nav {
+    display: flex;
+    color: #fff;
+    flex-direction: row;
+    font-size: $font-size-md;
+    line-height: 30px;
+    li {
+      margin-left: 64px;
+      &:first-child {
+        margin-left: 0;
+      }
+    }
+  }
+}
