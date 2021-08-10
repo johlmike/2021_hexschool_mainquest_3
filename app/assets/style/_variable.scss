@@ -3,17 +3,23 @@ $font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI",
   "Microsoft JhengHei", Roboto, "Noto Sans TC", "Helvetica Neue", Arial,
   sans-serif;
 
-  // font-size
+// font-size
 $font-size-base: 1rem; // 16px
-$font-size-sm: 1rem * 0.875; // 14px
-$font-size-md: 1rem * 1.25; // 20px
-$font-size-lg: 1rem * 1.5; // 24px
-$font-size-xl: 1rem * 2.25; // 36px
-$font-size-2xl: 1rem * 3; // 48px
-$font-size-3xl: 1rem * 4; // 64px
-$font-size-4xl: 1rem * 4.5; // 72px
-
-
+$font-size-sm: $font-size-base * 0.875; // 14px
+$font-size-2: $font-size-base * 1.25; // 20px
+$font-size-3: $font-size-base * 1.5; // 24px
+$font-size-4: $font-size-base * 1.75; // 28px
+$font-size-5: $font-size-base * 2; // 32px
+$font-size-6: $font-size-base * 2.25; // 36px
+$font-size-7: $font-size-base * 2.5; // 40px
+$font-size-8: $font-size-base * 2.75; // 44px
+$font-size-9: $font-size-base * 3; // 48px
+$font-size-10: $font-size-base * 3.25; // 52px
+$font-size-11: $font-size-base * 3.5; // 56px
+$font-size-12: $font-size-base * 3.75; // 60px
+$font-size-13: $font-size-base * 4; // 64px
+$font-size-14: $font-size-base * 4.25; // 68px
+$font-size-15: $font-size-base * 4.5; // 72px
 
 // color
 $primary: #aa0601;
