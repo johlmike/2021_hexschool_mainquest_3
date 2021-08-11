@@ -177,7 +177,7 @@ a {
           margin-left: 0; }
 
 .index-banner {
-  color: #aa0601;
+  color: #650300;
   position: relative; }
   .index-banner h2 {
     text-align: right;
@@ -192,6 +192,7 @@ a {
         right: 100px; } }
     .index-banner h2 span {
       font-size: 4rem;
-      line-height: 96px; }
+      line-height: 96px;
+      font-weight: bold; }
 
 /*# sourceMappingURL=all.css.map */
